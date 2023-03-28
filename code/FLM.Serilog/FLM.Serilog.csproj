@@ -11,7 +11,7 @@
     <SignAssembly>false</SignAssembly>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/Flaminel/FLM.Serilog</RepositoryUrl>
-    <Version>1.0.0.0</Version>
+    <Version>1.0.1.0</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Serilog" Version="2.12.0" />
